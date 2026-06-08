@@ -1,4 +1,4 @@
-# 🏛️ Mohenjo-Daro Heritage AI Chatbot
+# 🏛️ Heritage AI Chatbot
 
 An AI-powered chatbot and image gallery for exploring the ancient Indus Valley Civilisation site of **Mohenjo-daro** — a UNESCO World Heritage Site located in Larkana District, Sindh, Pakistan.
 
